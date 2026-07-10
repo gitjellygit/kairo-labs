@@ -8,19 +8,55 @@ Status: Writing
 
 # OPENING
 
-Duration: 00:00–00:20
+Duration: 00:00–00:45
 
 ## Narration
 
-Right now...
+Yesterday...
 
-Millions of people are asking one question.
+I watched two software engineers solve the exact same problem.
 
-Will AI replace my job?
+Same company.
+
+Same experience.
+
+Same deadline.
+
+The first engineer opened a browser...
+
+searched through Stack Overflow...
+
+copied code...
+
+fixed bugs...
+
+and finally finished.
+
+The second engineer...
+
+opened an AI assistant.
+
+Twenty minutes later...
+
+they were already reviewing their solution.
 
 (Pause)
 
-They're asking the wrong question.
+AI didn't replace the first engineer.
+
+It simply gave the second one...
+
+a different level of leverage.
+
+And that's when I realized...
+
+the world isn't being divided by intelligence anymore.
+
+It's being divided by adaptation.
+
+Welcome to...
+
+The Great AI Divide.
 
 ---
 
@@ -28,25 +64,39 @@ They're asking the wrong question.
 
 Black screen.
 
-Keyboard clicks.
+Keyboard sounds.
 
-Notification sound.
+Split screen.
 
-Fast montage:
+Left:
 
-- Software Engineer
-- Doctor
-- Teacher
-- Designer
-- Recruiter
+Traditional workflow.
 
-Text appears:
+Browser.
+
+Search.
+
+Copy.
+
+Paste.
+
+Debug.
+
+Right:
+
+AI assistant.
+
+Conversation.
+
+Code generation.
+
+Testing.
+
+Smile.
+
+Fade to title.
 
 THE GREAT AI DIVIDE
-
-Music slowly builds.
-
----
 
 # ACT 1
 
