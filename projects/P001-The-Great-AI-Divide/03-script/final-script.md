@@ -163,3 +163,87 @@ Creating.
 ---
 
 END OF PART 1
+
+# ACT 2
+
+Duration: 01:20–02:40
+
+## Narration
+
+History has seen this before.
+
+When electricity arrived...
+
+some businesses ignored it.
+
+Others rebuilt everything around it.
+
+When the internet arrived...
+
+some companies thought it was just another trend.
+
+Others became Amazon...
+
+Google...
+
+Netflix...
+
+Every technological revolution creates two groups.
+
+Not the smart...
+
+and the less smart.
+
+Not the rich...
+
+and the poor.
+
+But the people who adapt...
+
+and the people who wait.
+
+AI is no different.
+
+The divide has already started.
+
+Most people just haven't noticed it yet.
+
+---
+
+## Visual
+
+Old factories.
+
+Steam engines.
+
+Historic photographs.
+
+Electricity lighting cities.
+
+Dial-up internet.
+
+Early Google.
+
+Smartphones.
+
+Modern AI tools.
+
+Timeline animation connecting every revolution.
+
+---
+
+## Music
+
+Build momentum.
+
+Hopeful.
+
+Not dramatic.
+
+---
+
+## Screen Text
+
+"Every revolution rewards early adaptation."
+
+Fade out.
